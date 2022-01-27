@@ -32,6 +32,8 @@ print("Number of words = ",num_of_words)
 ~~~
 
 ### OUTPUT:
+![Screenshot (52)](https://user-images.githubusercontent.com/93427254/151340357-4bc012e8-8508-41d1-a1a6-2bd4d99961ce.png)
+![Screenshot (53)](https://user-images.githubusercontent.com/93427254/151340378-5e4eff15-f7dd-4ac5-93b6-05b90fed1a45.png)
 
 
 ## RESULT:
